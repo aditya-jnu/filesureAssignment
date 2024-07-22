@@ -13,33 +13,33 @@ export default function Cases() {
             <div className='flex gap-[25px]'>
                 <div>
                     <p className="flex items-center w-[391px] h-[44px] gap-4">
-                        <Image src="/Cases/smedia.svg" width={44} height={44}/>
+                        <Image src="/Cases/smedia.svg" width={44} height={44} alt="social media"/>
                         <span className="font-medium">Social media</span>
                     </p>
                     <p className="flex items-center w-[391px] h-[44px] gap-4">
-                        <Image src="/Cases/sport.svg" width={44} height={44}/>
+                        <Image src="/Cases/sport.svg" width={44} height={44} alt="sports"/>
                         <span className="font-medium">Fitness and sport</span>
                     </p>
                     <p className="flex items-center w-[391px] h-[44px] gap-4">
-                        <Image src="/Cases/bank.svg" width={44} height={44}/>
+                        <Image src="/Cases/bank.svg" width={44} height={44} alt="bank"/>
                         <span className="font-medium">Bank</span>
                     </p>
                     <p className="flex items-center w-[391px] h-[44px] gap-4">
-                        <Image src="/Cases/construction.svg" width={44} height={44}/>
+                        <Image src="/Cases/construction.svg" width={44} height={44} alt="construction"/>
                         <span className="font-medium">Construction</span>
                     </p>
                     <p className="flex items-center w-[391px] h-[44px] gap-4">
-                        <Image src="/Cases/game.svg" width={44} height={44}/>
+                        <Image src="/Cases/game.svg" width={44} height={44} alt="game"/>
                         <span className="font-medium">Game projects</span>
                     </p>
                 </div>
                 <div>
                     <p className="flex items-center w-[391px] h-[44px] gap-4">
-                        <Image src="/Cases/edu.svg" width={44} height={44}/>
+                        <Image src="/Cases/edu.svg" width={44} height={44} alt="38"/>
                         <span className="font-medium">Education</span>
                     </p>
                     <p className="flex items-center w-[391px] h-[44px] gap-4">
-                        <Image src="/Cases/auto.svg" width={44} height={44}/>
+                        <Image src="/Cases/auto.svg" width={44} height={44} alt="auto"/>
                         <span className="font-medium">Auto, transport</span>
                     </p>
                     <p className="flex items-center w-[391px] h-[44px] gap-4">
@@ -47,33 +47,33 @@ export default function Cases() {
                         <span className="font-medium">Medicine, health</span>
                     </p>
                     <p className="flex items-center w-[391px] h-[44px] gap-4">
-                        <Image src="/Cases/rest.svg" width={44} height={44}/>
+                        <Image src="/Cases/rest.svg" width={44} height={44} alt="46"/>
                         <span className="font-medium">Restaurants, food delivery</span>
                     </p>
                     <p className="flex items-center w-[391px] h-[44px] gap-4">
-                        <Image src="/Cases/market.svg" width={44} height={44}/>
+                        <Image src="/Cases/market.svg" width={44} height={44} className="case"/>
                         <span className="font-medium">Marketplaces</span>
                     </p>
                 </div>
                 <div>
                    <p className="flex items-center w-[391px] h-[44px] gap-4">
-                        <Image src="/Cases/ar.svg" width={44} height={44}/>
+                        <Image src="/Cases/ar.svg" width={44} height={44} alt="ar"/>
                         <span className="font-medium">AR technology</span>
                     </p>
                     <p className="flex items-center w-[391px] h-[44px] gap-4">
-                        <Image src="/Cases/tv.svg" width={44} height={44}/>
+                        <Image src="/Cases/tv.svg" width={44} height={44} alt="tv"/>
                         <span className="font-medium">TV series</span>
                     </p>
                     <p className="flex items-center w-[391px] h-[44px] gap-4">
-                        <Image src="/Cases/startup.svg" width={44} height={44}/>
+                        <Image src="/Cases/startup.svg" width={44} height={44} alt="startup"/>
                         <span className="font-medium">Startups</span>
                     </p>
                     <p className="flex items-center w-[391px] h-[44px] gap-4">
-                        <Image src="/Cases/religion.svg" width={44} height={44}/>
+                        <Image src="/Cases/religion.svg" width={44} height={44} alt="religion"/>
                         <span className="font-medium">Religion</span>
                     </p>
                     <p className="flex items-center w-[391px] h-[44px] gap-4">
-                        <Image src="/Cases/online.svg" width={44} height={44}/>
+                        <Image src="/Cases/online.svg" width={44} height={44} alt="courses"/>
                         <span className="font-medium">Online courses</span>
                     </p>
                 </div>

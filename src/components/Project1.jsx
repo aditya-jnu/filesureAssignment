@@ -11,11 +11,11 @@ export default function Project1() {
                 <p className="text-lg">Business analysis <span className="text-yellow-500">/</span> iOS <span className="text-yellow-500">/</span> Android <span className="text-yellow-500">/</span> QA <span className="text-yellow-500">/</span> UI/UX Design</p>
                 <div className="flex gap-8">
                     <div className="flex gap-2">
-                        <Image src="/Cases/location.svg" width={24} height={24}/>
+                        <Image src="/Cases/location.svg" width={24} height={24} alt="cases"/>
                         <p>India</p>
                     </div>
                     <div className="flex gap-2">
-                        <Image src="/Cases/estate.svg" width={24} height={24}/>
+                        <Image src="/Cases/estate.svg" width={24} height={24} alt="cases"/>
                         <p>Real Estate</p>
                     </div>
                 </div>
@@ -24,8 +24,8 @@ export default function Project1() {
                     <div><p className="font-bold text-2xl">+ 200 000</p><p className="text-customWhite2">Active users</p></div>
                 </div>
                 <div className="flex gap-4">
-                    <Image src="/Cases/ios.svg"  width={148} height={40}/>
-                    <Image src="/Cases/playstore.svg"  width={148} height={40}/>
+                    <Image src="/Cases/ios.svg"  width={148} height={40} alt="ios"/>
+                    <Image src="/Cases/playstore.svg"  width={148} height={40} alt="android"/>
 
                 </div>
             </div>

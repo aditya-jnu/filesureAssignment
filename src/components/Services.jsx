@@ -6,7 +6,7 @@ export default function Services() {
         {/* ***** NAVIGATION BAR ******** */}
         <div className="px-[108px] mt-4 z-50">
             <div className="flex items-center h-[92px] py-4 px-6 border rounded-xl gap-20 shadow-custom bg-white">
-                <div><Image src="/logo.svg" width={20} height={10} className="w-44 h-[60px]"/></div>
+                <div><Image src="/logo.svg" width={20} height={10} className="w-44 h-[60px]" alt="logo"/></div>
                 <div className="flex gap-6 w-[503px] text-sm">
                     <p>Services</p><p>Media</p><p>Cases</p><p>FAQ</p><p>Contacts</p>
                </div>
@@ -76,7 +76,7 @@ export default function Services() {
 
           {/* second section */}
           <div className="absolute  -top-28 right-0">
-            <Image src="/Gropu.svg" width={624} height={672}/>
+            <Image src="/Gropu.svg" width={624} height={672} alt="mobileimg"/>
           </div>
   
         </div>

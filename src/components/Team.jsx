@@ -15,7 +15,7 @@ export default function Team() {
             </div>
 
             {/* ****************************************** */}
-            <Image src="/groupphoto.svg" width={550} height={408}/>
+            <Image src="/groupphoto.svg" width={550} height={408} alt="group photo"/>
             
         </div>
     )

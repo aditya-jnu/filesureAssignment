@@ -5,7 +5,7 @@ export default function Contacts() {
              <div className=' h-[311px] bg-black flex flex-col gap-10 items-center rounded-xl p-6'>
 
                 {/* ************************ */}
-                <Image src="/Footer/logofooter.svg" width={290} height={113}/>
+                <Image src="/Footer/logofooter.svg" width={290} height={113} alt="logo"/>
 
                  {/* *********************** */}
                 <address className="flex gap-44" style={{ fontStyle: 'normal' }}>

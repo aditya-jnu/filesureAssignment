@@ -5,12 +5,12 @@ export default function Media() {
         <div className="bg-white py-[60px] flex flex-col gap-10">
 
              <div className="border-y-2 py-[60px] mx-[55px] flex justify-between">
-                 <Image src="/Planet.svg" width={163} height={72}/>
-                 <Image src="/Planet.svg" width={163} height={72}/>
-                 <Image src="/Planet.svg" width={163} height={72}/>
-                 <Image src="/Planet.svg" width={163} height={72}/>
-                 <Image src="/Planet.svg" width={163} height={72}/>
-                 <Image src="/Planet.svg" width={163} height={72}/>
+                 <Image src="/Planet.svg" width={163} height={72} alt="planet"/>
+                 <Image src="/Planet.svg" width={163} height={72} alt="planet"/>
+                 <Image src="/Planet.svg" width={163} height={72} alt="planet"/>
+                 <Image src="/Planet.svg" width={163} height={72} alt="planet"/>
+                 <Image src="/Planet.svg" width={163} height={72} alt="planet"/>
+                 <Image src="/Planet.svg" width={163} height={72} alt="planet"/>
              </div>
 
              <div className="flex justify-between px-[108px]">

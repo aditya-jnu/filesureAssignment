@@ -8,7 +8,7 @@ export default function Stages() {
             <div className="flex flex-col gap-6 -mr-10">
                 <div className="bg-white w-[392px] rounded-xl p-5">
                     <div className="flex items-center gap-6">
-                        <Image src="/Stages/analysis.svg" width={48} height={58} />
+                        <Image src="/Stages/analysis.svg" width={48} height={58} alt="analysis"/>
                         <p className="font-semibold text-xl">Analysis</p>
                     </div>
                     <p className="text-sm">We craft precise technical specs, aligning with<br/> your business, technology, and user<br/> requirements.</p>
@@ -16,7 +16,7 @@ export default function Stages() {
 
                 <div className="bg-white w-[392px] rounded-xl p-5">
                     <div className="flex items-center gap-6">
-                        <Image src="/Stages/design.svg" width={48} height={58} />
+                        <Image src="/Stages/design.svg" width={48} height={58} alt="design" />
                         <p className="font-semibold text-xl">Design</p>
                     </div>
                     <p className="text-sm">We adapt the customer's corporate identity to the platform guidelines. We draw convenient and understandable interfaces.</p>
