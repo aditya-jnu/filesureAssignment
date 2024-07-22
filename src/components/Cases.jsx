@@ -43,7 +43,7 @@ export default function Cases() {
                         <span className="font-medium">Auto, transport</span>
                     </p>
                     <p className="flex items-center w-[391px] h-[44px] gap-4">
-                        <Image src="/Cases/med.svg" width={44} height={44}/>
+                        <Image src="/Cases/med.svg" width={44} height={44} alt="case"/>
                         <span className="font-medium">Medicine, health</span>
                     </p>
                     <p className="flex items-center w-[391px] h-[44px] gap-4">
@@ -51,7 +51,7 @@ export default function Cases() {
                         <span className="font-medium">Restaurants, food delivery</span>
                     </p>
                     <p className="flex items-center w-[391px] h-[44px] gap-4">
-                        <Image src="/Cases/market.svg" width={44} height={44} className="case"/>
+                        <Image src="/Cases/market.svg" width={44} height={44} alt="case"/>
                         <span className="font-medium">Marketplaces</span>
                     </p>
                 </div>
