@@ -11,7 +11,7 @@ export default function Team() {
                     <div className="w-[184px]"><p className="font-bold text-5xl">+100</p><p className="font-medium text-sm  text-customWhite2">projects</p></div>
                     <div className="w-[184px]"><p className="font-bold text-5xl ">7 years</p><p className="font-medium text-sm text-customWhite2">in IT sphere</p></div>
                 </div>
-                <p className="w-[600px] font-medium text-sm">All the necessary specialists - from a designer to a tester - are on our staff. We hire the best specialists in the market. It's expensive but worth it</p>
+                <p className="w-[600px] font-medium text-sm">All the necessary specialists - from a designer to a tester - are on our staff. We hire the best specialists in the market. It&#39;s expensive but worth it</p>
             </div>
 
             {/* ****************************************** */}

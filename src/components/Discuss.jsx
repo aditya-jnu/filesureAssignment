@@ -4,8 +4,8 @@ export default function Discuss() {
     return (
         <div className='bg-custom-gradient px-[108px] py-12 flex justify-between'>
             <div className='text-white flex flex-col gap-6'>
-                <p className='font-bold text-4xl'>Let's discuss<br/>Your project</p>
-                <p>Let's figure out how to create an effective application,<br/>
+                <p className='font-bold text-4xl'>Let&#39;s discuss<br/>Your project</p>
+                <p>Let&#39;s figure out how to create an effective application,<br/>
                 its cost and terms of its development</p>
             </div>
             <form className='rounded-xl bg-white flex flex-col gap-4 p-6'>

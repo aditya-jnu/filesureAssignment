@@ -19,47 +19,47 @@ export default function Stages() {
                         <Image src="/Stages/design.svg" width={48} height={58} alt="design" />
                         <p className="font-semibold text-xl">Design</p>
                     </div>
-                    <p className="text-sm">We adapt the customer's corporate identity to the platform guidelines. We draw convenient and understandable interfaces.</p>
+                    <p className="text-sm">We adapt the customer&#39;s corporate identity to the platform guidelines. We draw convenient and understandable interfaces.</p>
                 </div>
 
                 <div className="bg-white w-[392px] rounded-xl p-5">
                     <div className="flex items-center gap-6">
-                        <Image src="/Stages/dev.svg" width={48} height={58} />
+                        <Image src="/Stages/dev.svg" width={48} height={58} alt="dev" />
                         <p className="font-semibold text-xl">Development</p>
                     </div>
-                    <p className="text-sm">We adapt the customer's corporate identity to the platform guidelines. We draw convenient and understandable interfaces.</p>
+                    <p className="text-sm">We adapt the customer&#39;s corporate identity to the platform guidelines. We draw convenient and understandable interfaces.</p>
                 </div>
             </div>
 
             {/* ********************************* */}
            
-            <Image src="/Stages/phone.svg" width={440} height={564} />
+            <Image src="/Stages/phone.svg" width={440} height={564} alt="phone" />
             
             {/* ********************************* */}
             <div className="flex flex-col gap-6 -ml-10">
 
             <div className="bg-white w-[392px] rounded-xl p-5">
                     <div className="flex items-center gap-6">
-                        <Image src="/Stages/testing.svg" width={48} height={58} />
+                        <Image src="/Stages/testing.svg" width={48} height={58}  alt="testing"/>
                         <p className="font-semibold text-xl">Testing</p>
                     </div>
-                    <p className="text-sm">We adapt the customer's corporate identity to the platform guidelines. We draw convenient and understandable interfaces.</p>
+                    <p className="text-sm">We adapt the customer&#39;s corporate identity to the platform guidelines. We draw convenient and understandable interfaces.</p>
                 </div>
 
                 <div className="bg-white w-[392px] rounded-xl p-5">
                     <div className="flex items-center gap-6">
-                        <Image src="/Stages/launching.svg" width={48} height={58} />
+                        <Image src="/Stages/launching.svg" width={48} height={58} alt="stages"/>
                         <p className="font-semibold text-xl">Launching</p>
                     </div>
-                    <p className="text-sm">We adapt the customer's corporate identity to the platform guidelines. We draw convenient and understandable interfaces.</p>
+                    <p className="text-sm">We adapt the customer&#39;s corporate identity to the platform guidelines. We draw convenient and understandable interfaces.</p>
                 </div>
 
                 <div className="bg-white w-[392px] rounded-xl p-5">
                     <div className="flex items-center gap-6">
-                        <Image src="/Stages/support.svg" width={48} height={58} />
+                        <Image src="/Stages/support.svg" width={48} height={58} alt="support"/>
                         <p className="font-semibold text-xl">Support</p>
                     </div>
-                    <p className="text-sm">We adapt the customer's corporate identity to the platform guidelines. We draw convenient and understandable interfaces.</p>
+                    <p className="text-sm">We adapt the customer&#39;s corporate identity to the platform guidelines. We draw convenient and understandable interfaces.</p>
                 </div>
             </div>
             
